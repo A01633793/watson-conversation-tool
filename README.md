@@ -1,4 +1,4 @@
-# Watson Conversation Tool / Watson Assistant Tool
+# Watson Conversation Tool/Watson Assistant Tool
 The Watson Conversation Tool (wctool) is a Python-based command line tool to manage workspaces of the [IBM Watson Assistant (formerly Conversation)](https://www.ibm.com/watson/developercloud/doc/conversation/index.html) service on IBM Cloud. It was written to explore the API to manage workspaces.   
 Note that to manage workspaces from the command line this tool is not a requirement. The [API provides REST functions](https://www.ibm.com/watson/developercloud/conversation/api/v1/?curl#workspaces) that can be invoked from tools like `curl`.
 
